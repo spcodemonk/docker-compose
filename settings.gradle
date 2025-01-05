@@ -1,1 +1,3 @@
 rootProject.name = 'docker-compose'
+include 'sql'
+
